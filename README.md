@@ -1,2 +1,2 @@
-# .github
-SeeVee's public profile!
+# SeeVee
+This is SeeVee's public profile!
